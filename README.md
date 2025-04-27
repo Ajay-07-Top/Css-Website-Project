@@ -1,10 +1,5 @@
 
 # 📚 EduLearn - Modern Educational Website Frontend
-
-![GitHub repo size](https://img.shields.io/github/repo-size/your-username/EduLearn?color=blue&style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/your-username/EduLearn?style=flat-square)
-![GitHub stars](https://img.shields.io/github/stars/your-username/EduLearn?style=flat-square)
-
 ---
 
 ## 🌟 Overview
@@ -19,13 +14,7 @@ It's designed to help learners and institutions showcase courses and programs in
 🔗 [View Live Site](#)  
 *(You can update this link after deploying on GitHub Pages or Netlify)*
 
----
-
-## 📸 Screenshots
-
-| Landing Page | Courses Section |
-| :----------: | :--------------: |
-| ![Landing Page](images/preview-landing.png) | ![Courses Section](images/preview-courses.png) |
+--
 
 ---
 
